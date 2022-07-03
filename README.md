@@ -4,4 +4,5 @@ an GUI project game that asks the user to name the USA's states. The display sho
 SKILLS:
   - pandas library
   - read, create .csv files
+  - data query and transformation
   - list comprehension
